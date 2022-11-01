@@ -9,4 +9,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VallentinDS&langs_count=8&theme=blue-green" />
 </a>
 
+
+<br></br>
+### Thanks for passing by, you are visitor number:
 ![Thanks for Passing By](https://profile-counter.glitch.me/{VallentinDS}/count.svg)
+
